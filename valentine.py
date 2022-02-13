@@ -14,7 +14,7 @@ for y in y_coords:
             heart_y.append(y)
 
 plt.scatter(heart_x, heart_y, c="red")
-plt.text(0.5, 0.5, "Happy Valentine's Day \n My Love", horizontalalignment="center", verticalalignment="center",
+plt.text(0.5, 0.5, "Happy Valentine's Day Caca,Sorry gk bisa kasih coklat awokawokawok", horizontalalignment="center", verticalalignment="center",
          color="white")
 plt.axis("off")
 plt.show()
